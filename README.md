@@ -6,4 +6,5 @@ service. This is one of the two services.
 
 ## Installation
 - After cloning, `cd` into application directory and run `npm install` to install dependencies
+- Copy environment variables `cp .env.example .env`
 - Run `npm start` to start the application
